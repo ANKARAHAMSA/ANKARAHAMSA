@@ -11,7 +11,7 @@
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <a href="https://github.com/ANKARAHAMSA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&lines=🤖+Building+AI+that+matters...;🧠+Computer+Vision+%7C+Deep+Learning+%7C+LLMs;🚀+Turning+ideas+into+intelligent+products;🔬+AI+Engineer+%40+Dezzex+Technologies%2C+Dubai;💡+YOLO+%7C+RAG+%7C+Stable+Diffusion+%7C+Agents" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+that+matters...;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;Turning+ideas+into+intelligent+products;AI+Engineer+%40+Dezzex+Technologies%2C+Dubai;YOLO+%7C+RAG+%7C+Stable+Diffusion+%7C+Agents" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -126,9 +126,9 @@ class ShahinHamzaT:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANKARAHAMSA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-eight-nu.vercel.app/api?username=ANKARAHAMSA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKARAHAMSA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=ANKARAHAMSA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
 
