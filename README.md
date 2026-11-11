@@ -126,15 +126,24 @@ class ShahinHamzaT:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANKARAHAMSA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF&rank_icon=github" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKARAHAMSA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&card_width=320" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-<br/>
 <img src="https://streak-stats.demolab.com/?user=ANKARAHAMSA&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" alt="GitHub Streak Stats"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/Total%20Contributions-310-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Repositories-23-7C3AED?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Stars%20Earned-7-FFD700?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+**Languages I code in:**
+
+![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-★★★★☆-E34F26?style=flat-square&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-★★★☆☆-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-★★★☆☆-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 </div>
 
 ---
@@ -154,7 +163,9 @@ class ShahinHamzaT:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ANKARAHAMSA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ANKARAHAMSA&theme=nord&column=7&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ANKARAHAMSA)
+
 </div>
 
 ---
