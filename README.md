@@ -160,15 +160,6 @@ class ShahinHamzaT:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ANKARAHAMSA&theme=nord&column=7&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ANKARAHAMSA)
-
-</div>
-
----
 
 ## 🏆 Achievements & Certifications
 
