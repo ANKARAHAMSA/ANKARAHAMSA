@@ -126,15 +126,20 @@ class ShahinHamzaT:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-nu.vercel.app/api?username=ANKARAHAMSA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANKARAHAMSA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=ANKARAHAMSA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKARAHAMSA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 <br/>
 <img src="https://streak-stats.demolab.com/?user=ANKARAHAMSA&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=ANKARAHAMSA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -154,7 +159,7 @@ class ShahinHamzaT:
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANKARAHAMSA&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANKARAHAMSA&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
