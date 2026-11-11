@@ -68,6 +68,44 @@ class ShahinHamzaT:
 
 ---
 
+## ⚡ Developer Status Board
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/🟢%20STATUS-ONLINE%20%26%20BUILDING-00C853?style=for-the-badge)
+![Mode](https://img.shields.io/badge/⚙️%20MODE-AI%20ENGINEER-00D9FF?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍%20BASED-DUBAI%20UAE-FF6B6B?style=for-the-badge)
+
+<br/>
+
+| 🛸 Right Now | 💭 Thinking About | 🔥 Obsessed With |
+|:------------:|:-----------------:|:----------------:|
+| YOLO vehicle damage detection pipeline | Autonomous multi-agent systems | Vision-Language Models |
+| AI solutions @ Dezzex Technologies | LoRA fine-tuning on custom datasets | Real-time inference optimization |
+| End-to-end CV workflows | Retrieval-Augmented Generation (RAG) | Diffusion model controlnets |
+
+</div>
+
+---
+
+## 🎯 Skill Proficiency
+
+<div align="center">
+
+| 🔬 Domain | Progress | Level |
+|:----------|:--------:|------:|
+| 🐍 **Python** | `▓▓▓▓▓▓▓▓▓░` | ![](https://img.shields.io/badge/-95%25-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 👁️ **Computer Vision** | `▓▓▓▓▓▓▓▓░░` | ![](https://img.shields.io/badge/-85%25-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| 🤖 **Generative AI & LLMs** | `▓▓▓▓▓▓▓▓░░` | ![](https://img.shields.io/badge/-82%25-886FBF?style=flat-square&logo=googlegemini&logoColor=white) |
+| 🧬 **Agentic AI · RAG · LangGraph** | `▓▓▓▓▓▓▓░░░` | ![](https://img.shields.io/badge/-75%25-00C853?style=flat-square&logo=langchain&logoColor=white) |
+| 📊 **Data Science & Visualization** | `▓▓▓▓▓▓▓░░░` | ![](https://img.shields.io/badge/-78%25-150458?style=flat-square&logo=pandas&logoColor=white) |
+| ⚙️ **Backend · FastAPI · Flask** | `▓▓▓▓▓▓▓░░░` | ![](https://img.shields.io/badge/-70%25-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| 🔏 **Image Processing & Security** | `▓▓▓▓▓▓░░░░` | ![](https://img.shields.io/badge/-65%25-FF6600?style=flat-square&logo=opencv&logoColor=white) |
+
+</div>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 ### 🤖 Core AI / ML / Deep Learning
@@ -80,7 +118,7 @@ class ShahinHamzaT:
 
 ### 🧬 Generative AI & LLMs
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6600?style=for-the-badge&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
@@ -134,16 +172,6 @@ class ShahinHamzaT:
 ![](https://img.shields.io/badge/Repositories-23-7C3AED?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Stars%20Earned-7-FFD700?style=for-the-badge&logo=github&logoColor=white)
 
-<br/>
-
-**Languages I code in:**
-
-![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-★★★★☆-E34F26?style=flat-square&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/C++-★★★☆☆-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-★★★☆☆-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 </div>
 
 ---
@@ -159,7 +187,6 @@ class ShahinHamzaT:
 </div>
 
 ---
-
 
 ## 🏆 Achievements & Certifications
 
